@@ -1,0 +1,3 @@
+(defn delete_taylor_swift_and_x[] 
+   ; delete from life where people='toxic';
+)
